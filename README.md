@@ -8,9 +8,6 @@ Undo functionality to remove the last drawn shape
 Secure communication using SSL/TLS encryption
 Getting Started
 To run the collaborative whiteboard application, follow these steps:
-Clone the repository:
-bash
-git clone https://github.com/your-username/collaborative-whiteboard.git
 
 Install the required dependencies:
 bash
