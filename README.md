@@ -26,5 +26,7 @@ Usage
 Choose a color by clicking on the "Choose Color" button.
 Draw on the canvas by clicking and dragging the mouse.
 Undo the last drawn shape by clicking the "Undo" button.
+
 Contributors
+
 Maitri
