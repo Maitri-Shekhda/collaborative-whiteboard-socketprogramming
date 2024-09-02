@@ -23,17 +23,24 @@ The Collaborative Whiteboard is a multi-user application that enables real-time 
 
 The project follows a client-server architecture where:
 
--The Server acts as a central hub that manages all client connections and handles the broadcasting of messages to ensure real-time synchronization-.
-The Clients connect to the server, send drawing actions, and receive drawing updates from other clients via the server.
+-The Server acts as a central hub that manages all client connections and handles the broadcasting of messages to ensure real-time synchronization.
+
+-The Clients connect to the server, send drawing actions, and receive drawing updates from other clients via the server.
 
 ## Setup and Installation
 
 1.**Clone the Repository:** 
-'''git clone https://github.com/Maitri-Shekhda/collaborative-whiteboard-socketprogramming.git
-cd collaborative-whiteboard-socketprogramming'''
-2.**Install Required Libraries:** pip install tkinter
-3.**Run the Server:** python server.py
-4.**Run the Client(s):** python client.py
+git clone https://github.com/Maitri-Shekhda/collaborative-whiteboard-socketprogramming.git
+cd collaborative-whiteboard-socketprogramming
+
+2.**Install Required Libraries:**
+pip install tkinter
+
+3.**Run the Server:** 
+python server.py
+
+4.**Run the Client(s):** 
+python client.py
 
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
