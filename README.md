@@ -36,6 +36,7 @@ The project follows a client-server architecture where:
 
 1.**Clone the Repository:** 
 git clone https://github.com/Maitri-Shekhda/collaborative-whiteboard-socketprogramming.git
+
 cd collaborative-whiteboard-socketprogramming
 
 2.**Install Required Libraries:**
