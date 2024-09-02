@@ -22,15 +22,11 @@ The project follows a client-server architecture where:
 The Clients connect to the server, send drawing actions, and receive drawing updates from other clients via the server.
 
 ## Setup and Installation
-1.**Clone the Repository:**
-git clone https://github.com/Maitri-Shekhda/collaborative-whiteboard-socketprogramming.git
+1.**Clone the Repository:** git clone https://github.com/Maitri-Shekhda/collaborative-whiteboard-socketprogramming.git
 cd collaborative-whiteboard-socketprogramming
-2.**Install Required Libraries:**
-pip install tkinter
-3.**Run the Server:**
-python server.py
-4.**Run the Client(s):**
-python client.py
+2.**Install Required Libraries:** pip install tkinter
+3.**Run the Server:** python server.py
+4.**Run the Client(s):** python client.py
 
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
