@@ -8,7 +8,7 @@ The Collaborative Whiteboard is a multi-user application that enables real-time 
 
 ## Features
 
--**Real-Time Drawing**: Multiple users can draw on the whiteboard at the same time, and their drawings are updated in real-time for all users.
+-**Real-Time Drawing**: Multiple users can draw on the whiteboard at the same time, and their drawings are updated in real-time for all users. 
 
 -**Client-Server Architecture**: Centralized server handles all client connections and broadcasts drawing updates.
 
