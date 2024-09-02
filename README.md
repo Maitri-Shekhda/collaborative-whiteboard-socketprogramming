@@ -9,23 +9,28 @@ The Collaborative Whiteboard is a multi-user application that enables real-time 
 ## Features
 
 -**Real-Time Drawing**: Multiple users can draw on the whiteboard at the same time, and their drawings are updated in real-time for all users.
+
 -**Client-Server Architecture**: Centralized server handles all client connections and broadcasts drawing updates.
+
 -**Graphical User Interface (GUI)**: User-friendly interface built with Tkinter for easy drawing and collaboration.
+
 -**Multithreaded Server and Client**: The server and client use multithreading to handle multiple connections and GUI updates simultaneously.
 
 ## Technologies Used
 
 -**Python**: The programming language used to build the application.
+
 -**Socket Programming**: Used for network communication between the server and clients.
+
 -**Tkinter**: Python's standard GUI library used to create the drawing interface.
 
 ## Architecture
 
 The project follows a client-server architecture where:
 
--The Server acts as a central hub that manages all client connections and handles the broadcasting of messages to ensure real-time synchronization.
+-The **Server** acts as a central hub that manages all client connections and handles the broadcasting of messages to ensure real-time synchronization.
 
--The Clients connect to the server, send drawing actions, and receive drawing updates from other clients via the server.
+-The **Clients** connect to the server, send drawing actions, and receive drawing updates from other clients via the server.
 
 ## Setup and Installation
 
